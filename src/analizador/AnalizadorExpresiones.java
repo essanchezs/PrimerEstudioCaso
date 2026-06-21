@@ -4,8 +4,7 @@ import pila.Pila;
 
 import java.util.ArrayList;
 
-//Clase AnalizadorExpresiones: valida una expresion aritmetica y la convierte
-//a notacion postfija usando el algoritmo de Shunting Yard (Dijkstra)
+//Clase AnalizadorExpresiones: valida una expresion aritmetica y la convierte a notacion postfija usando el algoritmo de Shunting Yard
 public class AnalizadorExpresiones {
 
     //Atributo para guardar la expresion convertida a postfija
